@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Reizal Specter",
+      "lastName": "Pambuko",
+      "email": "reizal@gmail.com",
+      "mobileNo": 89677453234,
+      "salary": "4.000000"
+    }
+  ]
+}
